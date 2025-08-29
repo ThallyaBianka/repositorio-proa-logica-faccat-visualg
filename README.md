@@ -88,4 +88,6 @@ Cada pasta contém arquivos .alg com os exercícios correspondentes.
 
 Email: thallyabianka@gmail.com
 
+GitHub: https://github.com/ThallyaBianka
+
 Desenvolvido por: Thallya Bianka
